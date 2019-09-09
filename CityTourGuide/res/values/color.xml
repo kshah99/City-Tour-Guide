@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="orange">#f0a531</color>
+    <color name="light_orange">#ffa822</color>
+    <color name="gray">#6A6A6A</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#339900</color>
+    <color name="lightgray">#DCDCDC</color>
+    <color name="lightish">#F6F6F6</color>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="dark_black">#040404</color>
+    <color name="golden">#FFD700</color>
+
+</resources>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/frame"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/lightish" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="10dp" >
+
+            <ImageView
+                android:layout_width="170dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:background="@drawable/city_tour_guide_logo"
+                android:contentDescription="@string/app_name" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/main_title"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="@string/whoweare"
+                android:textColor="@color/orange"
+                android:textSize="22sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvWhoWeWre"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:textColor="@color/black"
+                android:textSize="16sp" >
+            </TextView>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/main_title"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="@string/ourobjective"
+                android:textColor="@color/orange"
+                android:textSize="22sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvOurObjective"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:textColor="@color/black"
+                android:textSize="16sp" >
+            </TextView>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/main_title"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="@string/whatweoffer"
+                android:textColor="@color/orange"
+                android:textSize="22sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvWhatWeOffer"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:textColor="@color/black"
+                android:textSize="16sp" >
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

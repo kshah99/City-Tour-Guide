@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Baroda</string>
+    <string name="website_url">http://192.168.2.14/</string>
+    <string name="webservice_url">http://192.168.2.14/ws_CityTourGuide.asmx</string>
+    <string name="namespace">http://citytourguide.mytestbuddy.net/</string>
+    <string name="email">Enter Email Address</string>
+    <string name="password">*****</string>
+    <string name="login">Login</string>
+    <string name="first_name">Enter First Name</string>
+    <string name="last_name">Enter Last Name</string>
+    <string name="mobile_number">Enter Mobile Number</string>
+    <string name="register">Register Me!</string>
+    <string name="get_password">Get Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="share_app">Try City Tour Guide Free App.\n\nhttps://play.google.com/store/apps/details?id=com.mytestbuddy.citytourguide</string>
+    <string name="action_settings">Floating</string>
+    <string name="search">Search</string>
+    <string name="comment">Comment</string>
+    <string name="feedback">Feedback</string>
+    <string name="submit">Submit</string>
+    <string name="in_vadodara">In Vadodara</string>
+    <string name="yourfeedback">Give us your Valuable Feedback</string>
+    <string name="yourcomment">Write your Comment</string>
+    <string name="whoweare"> Who We Are ? </string>
+    <string name="whowearecontent"> Mytestbuddy is a very simple idea – while using social gaming technology and Web 2.0 infrastructure, Lodhari technologies has created a fun learning environment for students.</string>
+    <string name="ourobjective"> Our Objective </string>
+    <string name="ourobjectivecontent"> Mytestbuddy is developed to comprehend to the educational needs of any student, be it a medical graduate seeking admissions in post graduation course or a school child preparing for his examinations. \n\nMytestbuddy provides a comprehensive platform which creates a competitive, responsive and motivating environment, making the monotonous and tedious learning process a livelier, relaxed and enriching experience. \n\nAt mytestbuddy you can interact with your peers and professors, seek guidance and share ideas. Here you can meet friends and like-minded people who are preparing for similar entrance examination and can become each others’ support and study partners. \n\nYou can also ask questions to professors and ask for advice. <br /><br />Mytestbuddy’s notes bank will help you to create notes while preparing for subjects and store them in an orderly fashion for personal or for public benefits.</string>
+    <string name="whatweoffer"> What We Offer ? </string>
+    <string name="whatweoffercontent"> Mytestbuddy helps prepare students for standardized tests including the AIPGMEE, GMAT, GRE, CAT, AIEEE and IIT- JEE. \n\nMytestbuddy plans to provide an inclusive curriculum for preparation of these examinations and tutorials to suit the needs of all students.  </string>
+    <string name="heretohelp"> We\'re Here to Help </string>
+    <string name="contactsupport">Contact our Support Center to receive assistance with your needs.</string>
+    <string name="customersupport"> Customer Support\n+91 0265-6599822 </string>
+    <string name="supporttime"> Monday – Friday : 10:30a.m. to 6:30p.m.\nPhone hours are as per Indian Standard Time </string>
+    <string name="visitus"> Visit Us @ </string>
+    <string name="address"> Lodhari Technologies Pvt. Ltd.\n\n127, Siddhivinayak Complex,\nBehind Railway Station,\nAlkapuri,\nVadodara-390 005,\nIndia. </string>
+    <string name="emailsupport"> Email Support\nSupport@mytestbuddy.com </string>
+
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>About Us</item>
+        <item>Attraction</item>
+        <item>Hotel</item>
+        <item>Restaurant</item>
+        <item>Transportation</item>
+        <item>My Profile</item>
+        <item>Feedback</item>
+        <item>Contact Us</item>
+        <item>Rate this App</item>
+        <item>Share this App</item>
+        <item>Mytestbuddy on Play Store</item>
+        <item>Logout</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_aboutus</item>
+        <item>@drawable/ic_attraction</item>
+        <item>@drawable/ic_hotel</item>
+        <item>@drawable/ic_restaurant</item>
+        <item>@drawable/ic_transportation</item>
+        <item>@drawable/ic_profile</item>
+        <item>@drawable/ic_feedback</item>
+        <item>@drawable/ic_contactus</item>
+        <item>@drawable/ic_rate</item>
+        <item>@drawable/ic_share</item>
+        <item>@drawable/ic_playstore</item>
+        <item>@drawable/ic_logout</item>
+    </array>
+
+</resources>

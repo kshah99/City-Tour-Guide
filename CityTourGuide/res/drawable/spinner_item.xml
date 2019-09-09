@@ -1,0 +1,30 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <solid android:color="@color/lightish" />
+
+    <selector xmlns:android="http://schemas.android.com/apk/res/android" >
+        <item
+            android:drawable="@color/light_orange"
+            android:state_enabled="false"
+            android:state_focused="true"
+            android:state_pressed="true"/>
+        <item
+            android:drawable="@color/light_orange"
+            android:state_enabled="false"
+            android:state_focused="true"/>
+        <item
+            android:drawable="@color/light_orange"
+            android:state_focused="true"
+            android:state_pressed="true"/>
+        <item
+            android:drawable="@color/light_orange"
+            android:state_focused="false"
+            android:state_pressed="true"/>
+        <item
+            android:drawable="@color/light_orange"
+            android:state_focused="true"/>
+        <item android:drawable="@color/light_orange"/>
+    </selector>
+
+</shape>
